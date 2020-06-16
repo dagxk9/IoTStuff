@@ -33,9 +33,10 @@ void loop(){
 
     delay(1000); // wait for a quarter seconds
     digitalWrite(4, LOW);
+    }
     digitalWrite(5, HIGH);
     delay(5000);
-  }
+ 
   }
   
 
